@@ -173,12 +173,12 @@ Active advocate for collaborative code optimization, modern continuous integrati
 ## 📈 System Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.am/api?username=Madhav0976&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav0976&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhav0976&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Madhav0976&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.am/api/top-langs/?username=Madhav0976&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav0976&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
 </p>
 
 ---
@@ -204,7 +204,7 @@ Active advocate for collaborative code optimization, modern continuous integrati
 
 * **LinkedIn Professional Network:** [in/madhavtanguturi](https://linkedin.com/in/madhavtanguturi)
 * **Direct Version Control Hub:** [@Madhav0976](https://github.com/Madhav0976)
-* **Secure Business Mailbox:** [contact.placeholder@domain.com](mailto:your.email@placeholder.com)
+* **📧 Business Email:** [tanguturimadhav@gmail.com](mailto:tanguturimadhav@gmail.com)
 
 ---
 
