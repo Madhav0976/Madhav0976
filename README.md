@@ -20,15 +20,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science and Engineering student at NRI Institute of Technology**, expected to graduate in August 2027. I enjoy building practical software — from full-stack applications and backend APIs to AI-assisted developer tools and document intelligence systems.
+I'm a **B.Tech Computer Science and Engineering student at NRI Institute of Technology**, expected to graduate in August 2027. I enjoy building practical software — from full-stack applications and backend APIs to AI-powered developer tools and document intelligence systems.
+
+I'm also excited to be selected as a **Google Student Ambassador (GSA) for Semester 2**, participating in a two-month program focused on student engagement, technology awareness, and community learning.
 
 My focus is on understanding how applications work end to end: designing useful interfaces, building reliable APIs, integrating databases, and turning ideas into working projects.
 
 - 📍 **Location:** Vijayawada, Andhra Pradesh, India
+- 🎓 **Community Role:** Google Student Ambassador – Semester 2
 - 🎯 **Technical Interests:** Backend Engineering, Full-Stack Development, API Design, AI Applications, Document Intelligence
 - 🛠️ **Building With:** Python, Java, TypeScript, React, Next.js, FastAPI and Node.js
-- 🌱 **Currently Growing:** Software architecture, reliable application development and open-source collaboration
+- 🌱 **Currently Growing:** Software architecture, cloud technologies, and open-source collaboration
 - ⚡ **Engineering Philosophy:** Build useful things, keep code maintainable, and let working implementations speak louder than claims.
+
 
 ---
 
